@@ -1,5 +1,6 @@
 ## ⚙️ Tech Stack
 
+- **React** - Base development framework
 - **Next.js 15** – For server components and modern routing
 - **Tailwind CSS v4** – For rapid, responsive styling using a CSS‑first configuration
 - **TypeScript** – For type safety and modern JavaScript features
